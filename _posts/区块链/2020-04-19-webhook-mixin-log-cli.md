@@ -70,10 +70,11 @@ $ npm install -g mixin-log-cli
 | -s | 否 | `filesize`:监听文件大小（单位为 KB） |
 | -i | 否 | `interval`:log的时间间隔只对监听文件大小生效（单位为分钟，默认60） |
 
-> 注意：
-> 1. `-t` 和 `-k` 至少得指定一个。
-> 2. 如果指定 `-k` ，则必须指定 `-r`。
-> 3. `-w` 和 `-s` 至少得指定一个。
+注意：
+
+* `-t` 和 `-k` 至少得指定一个。
+* 如果指定 `-k` ，则必须指定 `-r`。
+* `-w` 和 `-s` 至少得指定一个。
 
 示例一，通过 Webhook 发送消息给个人或者 Mixin Messenger 小群群主。`YOUR_WEBBOOK_TOKEN` 需要读者从 Webhook 机器人 [7000000012](https://mixin.one/codes/4d792128-1db8-4baf-8d90-d0d8189a4a7e) 获取。
 
