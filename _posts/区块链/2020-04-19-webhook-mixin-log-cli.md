@@ -33,6 +33,10 @@ tags:
 
 上一篇文章讲解了通过 Mixin Webhook 实现零代码实现接收 GitHub Release 推送，今天给大家讲解一个工具，[mixin-log-cli](https://github.com/liuzemei/mixin-log-cli)，Webhook 实现监控日志。
 
+![](https://cdn.dbarobin.com/dkugonh.png)
+
+> 题图来自：© Helton Simões Gomes / Fim da Franquia de dados / uol.com.br
+
 ## 二 实践
 ***
 
