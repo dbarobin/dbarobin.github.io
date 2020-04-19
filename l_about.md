@@ -37,7 +37,7 @@ Telegram Group 解散了，保留了 Telegram Channel，点击订阅：
 * [ChainONE Official Channel](https://t.me/chainone)
 * [隐私极客](https://t.me/privacygeek)
 
-另外，我的微信号：**Wentasy**，感兴趣可以加一下。加我时简单介绍下自己，并注明来自 dbarobin.com。
+我的微信号：**Wentasy**，感兴趣可以加一下。加我时简单介绍下自己，并注明来自 dbarobin.com。此外，[Mixin Messenger](https://mixin.one/messenger) 是我除了微信之外的主要 IM 工具，ID：[26930](https://mixin.one/codes/89f7e832-ff53-4fff-ad47-10c68ec96ae2)。
 
 <iframe src="https://dbarobin.com/simple/" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe>
 
