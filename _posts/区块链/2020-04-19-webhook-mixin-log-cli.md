@@ -57,6 +57,7 @@ $ npm install -g mixin-log-cli
 ```
 
 ### 2.2 使用示例
+***
 
 **参数介绍**
 
