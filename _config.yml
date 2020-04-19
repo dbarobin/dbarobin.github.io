@@ -14,7 +14,8 @@ encoding: UTF-8
 ### Personal info and site tools info.
 twitter_username: vrwio
 github_username:  dbarobin
-telegram_name: robinwen
+telegram_username: robinwen
+mixin_id: 26930
 # disqus_shortname: dbarobin
 favicon:     "/images/favicon.ico"
 aboutme: Hi, I'm Robin Wen.
