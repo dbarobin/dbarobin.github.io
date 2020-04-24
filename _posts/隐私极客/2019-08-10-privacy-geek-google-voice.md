@@ -74,6 +74,7 @@ Google Voice 可以用来接收短信、打电话，前提是要科学上网。�
 * [隐私极客 Privacy Geek 0x07 Gmail](https://dbarobin.com/2019/10/01/privacy-geek-gmail/)
 * [隐私极客 Privacy Geek 0x08 ProtonMail](https://dbarobin.com/2019/10/13/privacy-geek-protonmail/)
 * [隐私极客 Privacy Geek 0x09 Apple ID](https://dbarobin.com/2019/10/20/privacy-geek-appleid/)
+* [隐私极客 Privacy Geek 0x10 KeyBase](https://dbarobin.com/2020/04/24/privacy-geek-keybase/)
 
 ### 参考资料
 ***
