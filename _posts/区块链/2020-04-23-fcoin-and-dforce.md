@@ -112,6 +112,11 @@ CeFi 和 DeFi 都是加密金融系统的一部分，也都使用加密货币作
 
 ***
 
+我是「区块链罗宾」，博客 [dbarobin.com](https://dbarobin.com/)
+如果您想和我交流，我的微信: **Wentasy**
+
+***
+
 本博客开通了闪电网络打赏，读者可以扫描下方的闪电网络二维码进行打赏。
 
 <center><img title="Bitcoin Lightning Network Donate" width="180" height="180" src="https://lnd.hoo.com/api/generate?openid=TruSwjrK2q57V484Tf0u&isimg=1" alt="Bitcoin Lightning Network Donate"/></center>
