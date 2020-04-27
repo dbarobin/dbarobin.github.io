@@ -4,7 +4,7 @@ author: Robin Wen
 layout: post
 title: Mixin Webhook 第三篇，RSS 订阅博客
 category: 区块链
-summary: 上一篇文章讲解了通过 mixin-log-cli，一个监控日志的工具。今天为大家讲解 RSS 订阅博客。使用 Mixin Webhook 不仅可以订阅博客，只要是一切支持 RSS 的内容，都可以订阅。不过这种方式缺点在于，订阅的步骤较多，而且分发到 Mixin Messenger，格式可能没那么友好。希望大家能把 RSS 用起来，优化自己的阅读体验。
+summary: 上一篇文章讲解了 mixin-log-cli，一个监控日志的工具。今天为大家讲解如何通过 Mixin Webhook 订阅博客。使用 Mixin Webhook 不仅可以订阅博客，只要是一切支持 RSS 的内容，都可以订阅。不过这种方式缺点在于，订阅的步骤较多，而且分发到 Mixin Messenger，格式可能没那么友好。希望大家能把 RSS 用起来，优化自己的阅读体验。
 tags:
   - 区块链
   - Blockchain
