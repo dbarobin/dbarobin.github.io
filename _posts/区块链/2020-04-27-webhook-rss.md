@@ -31,7 +31,7 @@ tags:
 ## 一 前言
 ***
 
-上一篇文章讲解了通过 mixin-log-cli，一个监控日志的工具。今天为大家讲解 RSS 订阅博客。
+上一篇文章讲解了 [mixin-log-cli](https://dbarobin.com/2020/04/19/webhook-mixin-log-cli/)，一个监控日志的工具。今天为大家讲解如何通过 Mixin Webhook 订阅博客。
 
 ## 二 RSS
 ***
