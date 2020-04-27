@@ -2,7 +2,7 @@
 published: true
 author: Robin Wen
 layout: post
-title: Mixin Messenger Webhook 第一篇，零代码实现接收 GitHub Release 推送
+title: Mixin Webhook 第一篇，零代码实现接收 GitHub Release 推送
 category: 区块链
 summary: Webhook 的应用相当广泛，比如 GitHub 的 Webhook 实现自动化构建，Slack 的 Webhook 实现各种通知，企业微信使用 Webhook 实现群机器人等。可以简单理解 Webhook 就是「用户定义的 HTTP 回调」。本文向读者介绍了什么是 Webhook，然后介绍了 Mixin Webhook，接着向大家介绍了如何利用 Mixin Webhook 实现零代码接收 GitHub Release 推送。Webhook 的使用相当灵活，读者感兴趣也可以基于 Webhook 实现自己想要的功能。
 tags:
@@ -45,7 +45,7 @@ Webhook 的应用相当广泛，比如 GitHub 的 Webhook 实现自动化构建�
 
 Mixin Messenger 是一款优秀的基于 Signal 协议的端对端加密即时通讯软件。Exin 团队基于 Mixin API 实现了 Webhook，可以给自己以及管理的小群发送消息，目前支持 PLAIN_TEXT、PLAIN_CONTACT、APP_BUTTON_GROUP、APP_CARD 几种消息类型。具体的使用示例代码可以查看 [https://github.com/ExinOne/webhook-samples](https://github.com/ExinOne/webhook-samples)，目前提供了 Go、PHP、Python 和 Shell 4 种语言的实现。
 
-本文是 Mixin Messenger Webhook 的第一篇文章，之后笔者还会为大家介绍 Webhook 的更多玩法。
+本文是 Mixin Webhook 的第一篇文章，之后笔者还会为大家介绍 Webhook 的更多玩法。
 
 ## 三 实践
 ***

@@ -2,7 +2,7 @@
 published: true
 author: Robin Wen
 layout: post
-title: Mixin Messenger Webhook 第二篇，mixin-log-cli
+title: Mixin Webhook 第二篇，mixin-log-cli
 category: 区块链
 summary: 上一篇文章讲解了通过 Mixin Webhook 实现零代码实现接收 GitHub Release 推送，今天给大家讲解一个工具，mixin-log-cli，Webhook 实现监控日志。想象一种场景，同步区块链节点数据，一般日志都会有同步进度，假如读者不想一直盯着屏幕，那这个工具就可以帮您做重复检查同步日志的工作。当然了，这个工具能用的场景不仅于此，读者可以自行挖掘。
 tags:
