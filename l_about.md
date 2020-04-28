@@ -19,7 +19,7 @@ permalink: /about/
 
 个人公众号：
 
-* 「温国兵」（微信号：**vvrobin**）
+* 「区块链罗宾」（微信号：**vvrobin**）
 * 「区块链技术指北」（微信号：**BlockchainAge**）
 
 建议用 [RSS](https://dbarobin.com/feed.xml) 订阅本博客。一方面，迄今为止，还找不到比 RSS 更优雅的互联网阅读方式；另一方面，公众号的各种限制违背了互联网的初衷。
