@@ -8,7 +8,7 @@ summary: 4 月 14 日晚，区块链交流群里热闹非凡，大家争相传�
 tags:
   - 区块链
   - Blockchain
-  - DC/EP
+  - DCEP
 ---
 
 `文/robin`
