@@ -43,7 +43,7 @@ ExinEarn 不仅局限于圈内，所以从一开始就提供了 Android 和 iOS 
 
 如果你也心动了，不妨注册 ExinEarn 体验下。希望 ExinEarn 可以让你多赚零花钱。
 
-![](https://cdn.dbarobin.com/pqhhbsj.png)
+![](https://cdn.dbarobin.com/v6phek7.png)
 
 我的邀请码：**3XKXJB**。ExinEarn 老用户也可以在「设置，我的邀请人」填写该邀请码。​
 
