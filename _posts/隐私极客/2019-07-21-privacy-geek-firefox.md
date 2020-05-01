@@ -42,7 +42,7 @@ Firefox 可以说是黑客利器，连 Tor Browser 都是基于 Firefox ESR 的�
 
 第四，Firefox 定制化比 Chrome 强，读者可以按照自己的需求定制强大无比的浏览器。
 
-讲解完 Firefox 的优势，接下来为大家说说使用 Firefox 都活哪些技巧。
+讲解完 Firefox 的优势，接下来为大家说说使用 Firefox 都有哪些技巧。
 
 第一，将默认引擎设置为 [DuckDuckGo](https://duckduckgo.com)，原因不再赘述。
 
