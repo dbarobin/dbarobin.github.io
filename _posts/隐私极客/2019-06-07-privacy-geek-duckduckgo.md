@@ -34,7 +34,7 @@ tags:
 
 > 题图来自: © DuckDuckGo / DuckDuckGo Privacy Browser / play.google.com
 
-Google 每秒 4 万～8 万次搜索量，强大的计算能力和数据采集能力，可以产生巨大的商业价值。不幸的事，Google track you. DuckDuckGo 主推隐私功能，Yes, [Google tracks you. We don’t.](https://donttrack.us)。此外，读者还可以订阅 DuckDuckGo 的 [博客](https://spreadprivacy.com)。
+Google 每秒 4 万～8 万次搜索量，强大的计算能力和数据采集能力，可以产生巨大的商业价值。不幸的是，Google track you. DuckDuckGo 主推隐私功能，Yes, [Google tracks you. We don’t.](https://donttrack.us)。此外，读者还可以订阅 DuckDuckGo 的 [博客](https://spreadprivacy.com)。
 
 本文想给读者介绍的，DuckDuckGo 的使用技巧（参考了 [少数派](https://sspai.com/post/40117) 的文章）。
 
@@ -72,7 +72,7 @@ Google 每秒 4 万～8 万次搜索量，强大的计算能力和数据采集�
 
 十四，快速查找 HTML 代码，关键词 html，比如输入「**html >**」将会获得大于符号的 HTML 代码。
 
-最后，DuckDuckGo 配合 Firefox，可以打造最佳隐私搜索利器。下一篇文章将为大家讲件 Firefox。
+最后，DuckDuckGo 配合 Firefox，可以打造最佳隐私搜索利器。下一篇文章将为大家讲讲 Firefox。
 
 当然，更多的技巧需要读者去探索，DuckDuckGo 可以作为 Google 有力的补充或者替代。不过不幸的是，DuckDuckGo 像 Google 一样无法摆脱被墙的命运。
 
