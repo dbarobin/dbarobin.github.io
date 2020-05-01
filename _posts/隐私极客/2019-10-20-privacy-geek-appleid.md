@@ -4,7 +4,7 @@ author: Robin Wen
 layout: post
 title: 隐私极客 Privacy Geek | 0x09 Apple ID
 category: 隐私极客
-summary: 因为 Apple 对中国政府的妥协，Apple 生态才得以在中国稳健发展，但与之带来的就是对于隐私的担心。比如国区 Apple ID 的 iCloud 功能，目前已由云上贵州托管。笔者在得知这个消息之后，果断注销了果区 Apple ID 的 iCloud。目前完全迁移到美区 Apple ID，App Store、iCloud 用起来也相当顺手。作为区块链从业者，拥有一个美区 Apple ID 也相当重要，毕竟很多行业应用都没法在国区上架。以上建议和技巧希望能够给读者带来帮助，Apple ID 的安全和隐私非常重要，读者千万不能掉以轻心。
+summary: 因为 Apple 对中国政府的妥协，Apple 生态才得以在中国稳健发展，但与之带来的就是对于隐私的担心。比如国区 Apple ID 的 iCloud 功能，目前已由云上贵州托管。笔者在得知这个消息之后，果断注销了国区 Apple ID 的 iCloud。目前完全迁移到美区 Apple ID，App Store、iCloud 用起来也相当顺手。作为区块链从业者，拥有一个美区 Apple ID 也相当重要，毕竟很多行业应用都没法在国区上架。以上建议和技巧希望能够给读者带来帮助，Apple ID 的安全和隐私非常重要，读者千万不能掉以轻心。
 tags:
   - 互联网
   - 隐私极客
@@ -35,7 +35,7 @@ tags:
 
 笔者之前的文章，[你至少需要一个美区 Apple ID](https://dbarobin.com/2019/03/02/us-apple-id/) 一文中解释了美区 Apple ID 的重要性。Android 生态有很多机型可以选择，但 iOS 系设备依然无可替代。主要原因有以下几点：第一，消息推送，iOS 的消息通知是真优秀，Android 相比就会弱很多，程序一旦进入后台就有可能收不到消息推送了；第二，权限管理。iOS 奉行「权限最小化」原则，只有当 App 需要相关权限才会向用户索取，用户完全可以选择接受或拒绝。而 Android 设备催生了无数的权限滥用案例。不过 Android 10 对 [权限管理](https://sspai.com/post/56538) 做了相当多的优化，Android 用户倒是可以期待下。第三，优质应用。iOS 上的优质应用，总体上是多于 Android 的。用户在 iOS 平台购买付费应用也相对方便，然而 Android 下的 Google Play 购买软件就没那么方便了。有个说法，一台不能科学上网的 Android 手机，就等于残废。我觉得就这 3 点，iPhone 作为主力机还是相当靠谱的。
 
-因为 Apple 对中国政府的妥协，Apple 生态才得以在中国稳健发展，但与之带来的就是对于隐私的担心。比如国区 Apple ID 的 iCloud 功能，目前已由云上贵州托管。笔者在得知这个消息之后，果断注销了果区 Apple ID 的 iCloud。目前完全迁移到美区 Apple ID，App Store、iCloud 用起来也相当顺手。作为区块链从业者，拥有一个美区 Apple ID 也相当重要，毕竟很多行业应用都没法在国区上架。
+因为 Apple 对中国政府的妥协，Apple 生态才得以在中国稳健发展，但与之带来的就是对于隐私的担心。比如国区 Apple ID 的 iCloud 功能，目前已由云上贵州托管。笔者在得知这个消息之后，果断注销了国区 Apple ID 的 iCloud。目前完全迁移到美区 Apple ID，App Store、iCloud 用起来也相当顺手。作为区块链从业者，拥有一个美区 Apple ID 也相当重要，毕竟很多行业应用都没法在国区上架。
 
 说了这么多，接下来笔者为大家讲解下 Apple ID 的使用技巧。
 
