@@ -53,6 +53,8 @@ Keybase 是由哈佛数学系学生 [Chris Coyne](https://chriscoyne.com/) 和�
 
 第二，PGP 也是 Keybase 的核心功能。如果读者对 PGP 不了解，可以阅读之前关于 PGP 的文章，点击 [此处](https://dbarobin.com/2019/05/02/privacy-geek-pgp/) 阅读。
 
+> Twitter [Song Gao](https://twitter.com/__songgao__) 补充：PGP 并不是 Keybase 的核心功能。App 里面的 feature 跟 PGP 没有关系。PGP 的设计无法满足多设备和多用户的安全需求，key rotation 也不友好。Keybase 使用的是另一套系统，详见 [此处](https://book.keybase.io/account)。
+
 第三，Keybase 也提供 PGP 私钥托管保存功能，Keybase 声称 PGP 私钥必须通过用户的 passphrase 才能解密，解密是通过浏览器客户端本地完成，服务器并不会保存 passphrase。这个托管功能并不是强制的，上传与否要看你是否足够信任 Keybase 了。
 
 第四，Keybase 提供 XLM、BTC、Zcash 地址验证，除了 XLM 是 Keybase 集成之外，BTC 和 Zcash 添加的都是外部地址。笔者建议，不要在 Keybase 上验证存储大额的 BTC 和 Zcash 地址。永远不要对外对外告知别人读者有多少比特币。
