@@ -121,7 +121,7 @@ error was found 23095 times. Please check.
 
 「区块链技术指北」同名 **知识星球**，二维码如下，欢迎加入。
 
-![区块链技术指北](https://i.imgur.com/3YzonTR.png)
+![区块链技术指北](https://cdn.dbarobin.com/3YzonTR.png)
 
 「区块链技术指北」相关资讯渠道：
 
@@ -153,7 +153,7 @@ error was found 23095 times. Please check.
 > PayPal: [https://www.paypal.me/robinwen](https://www.paypal.me/robinwen)
 > 微信打赏二维码
 
-![Wechat](https://i.imgur.com/SzoNl5b.jpg)
+![Wechat](https://cdn.dbarobin.com/SzoNl5b.jpg)
 
 –EOF–
 

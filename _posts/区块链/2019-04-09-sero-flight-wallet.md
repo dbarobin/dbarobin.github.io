@@ -63,7 +63,7 @@ SERO 最近在大力做营销，相关的活动可以关注微信公众号「SER
 
 「区块链技术指北」同名 **知识星球**，二维码如下，欢迎加入。
 
-![区块链技术指北](https://i.imgur.com/3YzonTR.png)
+![区块链技术指北](https://cdn.dbarobin.com/3YzonTR.png)
 
 「区块链技术指北」相关资讯渠道：
 
@@ -95,7 +95,7 @@ SERO 最近在大力做营销，相关的活动可以关注微信公众号「SER
 > PayPal: [https://www.paypal.me/robinwen](https://www.paypal.me/robinwen)
 > 微信打赏二维码
 
-![Wechat](https://i.imgur.com/SzoNl5b.jpg)
+![Wechat](https://cdn.dbarobin.com/SzoNl5b.jpg)
 
 –EOF–
 
