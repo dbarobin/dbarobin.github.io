@@ -55,6 +55,8 @@ BTC 对于币圈圈内人而言，不管是做多还是做空，不管是持有�
 我是「区块链罗宾」，博客 [dbarobin.com](https://dbarobin.com/)。
 如果您想和我交流，我的微信: **Wentasy**
 
+![](https://cdn.dbarobin.com/v4yywe2.png)
+
 ***
 
 **本站推广**
