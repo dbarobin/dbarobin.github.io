@@ -91,8 +91,8 @@ So，未来还远吗？
 ## 参考
 ***
 
-* [1] 链闻 (2020-05-13). 融资 17 亿美元的 TON 宣告终结，Telegram 官方不再参与该项目. Retrieved from [https://www.chainnews.com/news/550615655995.htm](https://www.chainnews.com/news/550615655995.htm).
-* [2] Liang Che (2020-05-13). 无疾而终！Telegram 区块链项目由生到死的 891 天！. Retrieved from [https://www.bitpush.news/articles/786402](https://www.bitpush.news/articles/786402).
+> [1] 链闻 (2020-05-13). 融资 17 亿美元的 TON 宣告终结，Telegram 官方不再参与该项目. Retrieved from [https://www.chainnews.com/news/550615655995.htm](https://www.chainnews.com/news/550615655995.htm).
+> [2] Liang Che (2020-05-13). 无疾而终！Telegram 区块链项目由生到死的 891 天！. Retrieved from [https://www.bitpush.news/articles/786402](https://www.bitpush.news/articles/786402).
 
 ***
 
