@@ -2,7 +2,7 @@
 published: true
 author: Robin Wen
 layout: post
-title: 隐私极客 Privacy Geek | 0x03 DuckDuckGo
+title: 隐私极客之 DuckDuckGo
 category: 隐私极客
 summary: 谈到搜索引擎，不得不提到 Google（注意，某度不在讨论范围）。笔者每天使用 Google 的频率相当高，但 DuckDuckGo 依然是 Google 之外的有力补充。关于 DuckDuckGo 的故事，可以阅读 @virushuo 的文章，穿越寒冬的独行者。当然，更多的技巧需要读者去探索，DuckDuckGo 可以作为 Google 有力的补充或者替代。不过不幸的是，DuckDuckGo 像 Google 一样无法摆脱被墙的命运。DuckDuckGo 不过滤结果，不追踪你的搜索记录，把搜索引擎隐私发挥到了极致，帮助你在 Cyberspace 中自由流荡。
 tags:
@@ -80,6 +80,13 @@ DuckDuckGo 不过滤结果，不追踪你的搜索记录，把搜索引擎隐私
 
 ***
 
+我是区块链罗宾，博客 [dbarobin.com](https://dbarobin.com/)
+如果您想和我交流，我的微信: **Wentasy**
+
+![](https://cdn.dbarobin.com/u4oonoo.png)
+
+***
+
 **本站推广**
 
 币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易。
@@ -89,22 +96,25 @@ DuckDuckGo 不过滤结果，不追踪你的搜索记录，把搜索引擎隐私
 
 ***
 
-最后，为了安全起见，读者只有四个渠道订阅本专栏，第一是本博客，RSS 订阅点击 [此处](https://dbarobin.com/feed.xml)。第二是在线小册，[https://privacy.dbarobin.com](https://privacy.dbarobin.com)。第三是 Telegram Channel，名叫 [隐私极客](https://t.me/privacygeek)。第四是 Mixin Channel，下载安装 [Mixin Messenger](https://mixin.one/messenger) 之后，访问 [mixin://users/b8f7e6e4-9ac2-4a85-9b17-257faac2d8d6](mixin://users/b8f7e6e4-9ac2-4a85-9b17-257faac2d8d6) 订阅。博客以文章为主，Telegram Channel 内容多样化且碎片化（图片、音频、视频、文字、链接等），Mixin Channel 作为同步渠道。归档页面点击 [此处](https://dbarobin.com/privacy/)。
+最后，读者有五个渠道订阅本专栏，第一是本博客，RSS 订阅点击 [此处](https://dbarobin.com/feed.xml)；第二是公众号，微信搜索「隐私极客」；第三是在线小册，[https://privacy.dbarobin.com](https://privacy.dbarobin.com)；第四是 Telegram Channel，名叫 [隐私极客](https://t.me/privacygeek)；第五是 Mixin Channel，下载安装 [Mixin Messenger](https://mixin.one/messenger) 之后，访问 [https://mixin.one/codes/27ca9fb0-bbae-4260-ad37-97ec9f7fcbeb](https://mixin.one/codes/27ca9fb0-bbae-4260-ad37-97ec9f7fcbeb) 订阅。博客以文章为主，Telegram Channel 内容多样化且碎片化（图片、音频、视频、文字、链接等），Mixin Channel 作为同步渠道。归档页面点击 [此处](https://dbarobin.com/privacy/)。
 
 ### 「隐私极客」系列文章
 ***
 
-* [隐私极客 Privacy Geek 0x00 开篇](https://dbarobin.com/2019/04/14/privacy-geek-prologue/)
-* [隐私极客 Privacy Geek 0x01 PGP](https://dbarobin.com/2019/05/02/privacy-geek-pgp/)
-* [隐私极客 Privacy Geek 0x02 Telegram](https://dbarobin.com/2019/05/14/privacy-geek-telegram/)
-* [隐私极客 Privacy Geek 0x03 DuckDuckGo](https://dbarobin.com/2019/06/07/privacy-geek-duckduckgo/)
-* [隐私极客 Privacy Geek 0x04 Firefox](https://dbarobin.com/2019/07/21/privacy-geek-firefox/)
-* [隐私极客 Privacy Geek 0x05 Google Voice](https://dbarobin.com/2019/08/10/privacy-geek-google-voice/)
-* [隐私极客 Privacy Geek 0x06 国内手机号](https://dbarobin.com/2019/08/18/privacy-geek-mobile/)
-* [隐私极客 Privacy Geek 0x07 Gmail](https://dbarobin.com/2019/10/01/privacy-geek-gmail/)
-* [隐私极客 Privacy Geek 0x08 ProtonMail](https://dbarobin.com/2019/10/13/privacy-geek-protonmail/)
-* [隐私极客 Privacy Geek 0x09 Apple ID](https://dbarobin.com/2019/10/20/privacy-geek-appleid/)
-* [隐私极客 Privacy Geek 0x10 KeyBase](https://dbarobin.com/2020/04/24/privacy-geek-keybase/)
+* [隐私极客之开篇](https://dbarobin.com/2019/04/14/privacy-geek-prologue/)
+* [隐私极客之 PGP](https://dbarobin.com/2019/05/02/privacy-geek-pgp/)
+* [隐私极客之 Telegram](https://dbarobin.com/2019/05/14/privacy-geek-telegram/)
+* [隐私极客之 DuckDuckGo](https://dbarobin.com/2019/06/07/privacy-geek-duckduckgo/)
+* [隐私极客之 Firefox](https://dbarobin.com/2019/07/21/privacy-geek-firefox/)
+* [隐私极客之 Google Voice](https://dbarobin.com/2019/08/10/privacy-geek-google-voice/)
+* [隐私极客之国内手机号](https://dbarobin.com/2019/08/18/privacy-geek-mobile/)
+* [隐私极客之 Gmail](https://dbarobin.com/2019/10/01/privacy-geek-gmail/)
+* [隐私极客之 ProtonMail](https://dbarobin.com/2019/10/13/privacy-geek-protonmail/)
+* [隐私极客之 Apple ID](https://dbarobin.com/2019/10/20/privacy-geek-appleid/)
+* [隐私极客之 KeyBase](https://dbarobin.com/2020/04/24/privacy-geek-keybase/)
+* [Bilibili UP 主「机智的党妹」被勒索了](https://dbarobin.com/2020/05/12/bilibili-up-blackmail/)
+
+***
 
 –EOF–
 
