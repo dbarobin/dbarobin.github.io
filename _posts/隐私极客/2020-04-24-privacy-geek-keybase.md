@@ -67,6 +67,13 @@ Keybase 是由哈佛数学系学生 [Chris Coyne](https://chriscoyne.com/) 和�
 
 ***
 
+我是区块链罗宾，博客 [dbarobin.com](https://dbarobin.com/)
+如果您想和我交流，我的微信: **Wentasy**
+
+![](https://cdn.dbarobin.com/u4oonoo.png)
+
+***
+
 **本站推广**
 
 币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易。
