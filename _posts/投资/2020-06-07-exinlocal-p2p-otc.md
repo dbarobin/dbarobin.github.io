@@ -62,7 +62,7 @@ ExinLocal 是一个人人都可以做商家，人人都可以发布广告的平�
 ExinLocal 交易方式：
 
 * 下载 Mixin Messenger 并注册 Mixin 账号，[https://mixin.one/messenger](https://mixin.one/messenger)；
-* Mixin Messenger 内搜索 ExinLocal，ID：[7000000015](https://mixin.one/codes/9b19efa3-359f-4dc4-a4c6-df389126bf9b)；
+* Mixin Messenger 内搜索 ExinLocal，ID：**[7000000015](https://mixin.one/codes/9b19efa3-359f-4dc4-a4c6-df389126bf9b)**；
 * 添加 ExinLocal 为联系人并授权，找到心仪的广告，即刻开始交易。
 
 ## 小结
