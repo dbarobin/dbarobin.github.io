@@ -100,9 +100,11 @@ Donate Cafe 只需要简单的几步就可以完成打赏设置，使用 Mixin M
 
 本博客开通了 Donate Cafe 打赏，支持 Mixin Messenger、Blockin Wallet、imToken、Blockchain Wallet、Ownbit、Cobo Wallet、bitpie、DropBit、BRD、Pine、Secrypto 等任意钱包扫码转账。
 
-<div class="--donate-button"
-     data-button-id="f8b9df0d-af9a-460d-8258-d3f435445075"
-></div>
+<center>
+    <div class="--donate-button"
+         data-button-id="f8b9df0d-af9a-460d-8258-d3f435445075"
+    ></div>
+</center>
 
 ***
 
