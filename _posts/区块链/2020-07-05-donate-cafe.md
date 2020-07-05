@@ -56,7 +56,7 @@ Dogecoin（狗狗币）总发行量 1000 亿，价格长期偏低，而且极其
 
 接下来笔者为大家介绍一款体验超级好的加密货币打赏工具，那就是 **[Donate Cafe](https://donate.cafe)**，域名也就是 donate.cafe，可以翻译成请我喝咖啡。
 
-Donate Cafe 只需要简单的几步，就可以生成接受打赏的链接，类似 PayPal.me。同时，读者还可以在需要接收打赏的地方放一个打赏按钮，甚至还可以放一段 JS 代码，无需跳转新页面就可以完成打赏。Donate Cafe 打赏用的是 P2P 模式，如果使用 Mixin Messenger 进行打赏，实际上是打赏方发起一笔对应数量对应币种的转账给被打赏方。Donate Cafe 还支持统计功能，具体要在 Mixin Messenger 内搜索 **7000103066** 查看。
+Donate Cafe 只需要简单的几步，就可以生成接受打赏的链接，类似 PayPal.me，比如笔者的是 [https://donate.cafe/robin](https://donate.cafe/robin)。同时，读者还可以在需要接收打赏的地方放一个打赏按钮，甚至还可以放一段 JS 代码，无需跳转新页面就可以完成打赏。Donate Cafe 打赏用的是 P2P 模式，如果使用 Mixin Messenger 进行打赏，实际上是打赏方发起一笔对应数量对应币种的转账给被打赏方。Donate Cafe 还支持统计功能，具体要在 Mixin Messenger 内搜索 **7000103066** 查看。
 
 ![](https://cdn.dbarobin.com/nsqvk56.jpg)
 
