@@ -34,7 +34,7 @@ tags:
 我是区块链罗宾，博客 [dbarobin.com](https://dbarobin.com/)
 如果您想和我交流，我的微信: **Wentasy**
 
-![](https://cdn.dbarobin.com/w0wignb.png)
+![](https://cdn.dbarobin.com/v4yywe2.png)
 
 ***
 
