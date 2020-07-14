@@ -1,0 +1,65 @@
+---
+published: true
+author: Robin Wen
+layout: post
+title: 日更一周的体验
+category: 想法
+summary: 今天是笔者日更的第 9 天，算是完整地跨过一整周了，今天写写这一周的体验都是怎样的。笔者在日更第一天的时候就写到日更很难。其一，可能因为工作加班而没有时间写作；其二，可能因为生活的琐碎耽搁写作；其三，缺乏素材，面对着屏幕憋了一个小时还写不出一个字。反正要做到日更太多阻碍了，要找理由可以找到一万条。村上春树，写作三十五年，著有十三部长篇小说，超过五十种语言译本。笔者只是业余选手，没法跟这些大师相提并论。笔者的目标不是文学家，而是一个爱写作的长期主义者。在写作的路上，笔者坚持了近 10 年，又有什么理由不继续坚持呢？
+tags:
+  - 想法
+  - 写作
+---
+
+`文/robin`
+
+***
+
+![](https://cdn.dbarobin.com/nzcf21q.png)
+
+今天是笔者日更的第 9 天，算是完整地跨过一整周了，今天写写这一周的体验都是怎样的。
+
+笔者在日更第一天的时候就写到日更很难。其一，可能因为工作加班而没有时间写作；其二，可能因为生活的琐碎耽搁写作；其三，缺乏素材，面对着屏幕憋了一个小时还写不出一个字。反正要做到日更太多阻碍了，要找理由可以找到一万条。
+
+但是 Flag 立了，总不能言而无信吧。要做到日更，必须做到多方面的准备。其一，必须时刻挂念写作，把写作当成吃饭睡觉这样的地位，这样养成习惯之后，便是再寻常不过之事了；其二，得提前准备至少 10 个以上的主题，而且还要不断地增加，这样才能保证随时都有素材可写，可能还要提前备几篇写好的稿子，以备不时之需；其三，写作还不能局限在 Mac 上，还要能保证移动端持续写作。
+
+这一周坚持下来怎么样呢？笔者觉得还不错。生活不少烦心事，但是当笔者静下心来写作的时候，仿佛在和自己对话，那些糟糕的情绪也就一扫而光了。
+
+「**我的职业是小说家**」是村上春树首部自传性作品，历时六年完成。村上春树，写作三十五年，著有十三部长篇小说，超过五十种语言译本。笔者只是业余选手，没法跟这些大师相提并论。笔者的目标不是文学家，而是一个爱写作的长期主义者。在写作的路上，笔者坚持了近 10 年，又有什么理由不继续坚持呢？
+
+***
+
+我是区块链罗宾，博客 [dbarobin.com](https://dbarobin.com/)
+如果您想和我交流，我的微信: **Wentasy**
+
+![](https://cdn.dbarobin.com/v4yywe2.png)
+
+***
+
+**本站推广**
+
+币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易。
+
+> 币安注册: [https://www.binancezh.com/cn/register/?ref=11190872](https://www.binancezh.com/cn/register/?ref=11190872)
+> 邀请码: **11190872**
+
+***
+
+本博客开通了 Donate Cafe 打赏，支持 Mixin Messenger、Blockin Wallet、imToken、Blockchain Wallet、Ownbit、Cobo Wallet、bitpie、DropBit、BRD、Pine、Secrypto 等任意钱包扫码转账。
+
+<center>
+    <div class="--donate-button"
+         data-button-id="f8b9df0d-af9a-460d-8258-d3f435445075"
+    ></div>
+</center>
+
+***
+
+本博客开通了闪电网络打赏，读者可以扫描下方的闪电网络二维码进行打赏。
+
+<center><img title="Bitcoin Lightning Network Donate" width="180" height="180" src="https://lnd.hoo.com/api/generate?openid=TruSwjrK2q57V484Tf0u&isimg=1" alt="Bitcoin Lightning Network Donate"/></center>
+
+***
+
+–EOF–
+
+版权声明：[自由转载-非商用-非衍生-保持署名（创意共享4.0许可证）](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
