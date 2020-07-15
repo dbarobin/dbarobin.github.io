@@ -81,6 +81,8 @@ Google Voice 可以用来接收短信、打电话，前提是要科学上网。�
 * [隐私极客之 Apple ID](https://dbarobin.com/2019/10/20/privacy-geek-appleid/)
 * [隐私极客之 KeyBase](https://dbarobin.com/2020/04/24/privacy-geek-keybase/)
 * [Bilibili UP 主「机智的党妹」被勒索了](https://dbarobin.com/2020/05/12/bilibili-up-blackmail/)
+* [隐私极客之 Apple 剪贴板](https://dbarobin.com/2020/07/10/apple-clipboard/)
+* [隐私极客之 Wi-Fi](https://dbarobin.com/2020/07/15/wifi/)
 
 ***
 
