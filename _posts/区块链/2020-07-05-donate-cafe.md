@@ -112,12 +112,6 @@ Donate Cafe 只需要简单的几步就可以完成打赏设置，使用 Mixin M
 
 ***
 
-本博客开通了闪电网络打赏，读者可以扫描下方的闪电网络二维码进行打赏。
-
-<center><img title="Bitcoin Lightning Network Donate" width="180" height="180" src="https://lnd.hoo.com/api/generate?openid=TruSwjrK2q57V484Tf0u&isimg=1" alt="Bitcoin Lightning Network Donate"/></center>
-
-***
-
 「区块链技术指北」同名 **知识星球**，二维码如下，欢迎加入。
 
 ![区块链技术指北](https://cdn.dbarobin.com/3YzonTR.png)

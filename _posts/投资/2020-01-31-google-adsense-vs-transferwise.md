@@ -63,12 +63,6 @@ Google AdSense 开通有一段时间了，网站开始有了微薄的收入。�
 > 币安注册: [https://www.binancezh.com/cn/register/?ref=11190872](https://www.binancezh.com/cn/register/?ref=11190872)
 > 邀请码: **11190872**
 
-***
-
-本博客开通了闪电网络打赏，读者可以扫描下方的闪电网络二维码进行打赏。
-
-<center><img title="Bitcoin Lightning Network Donate" width="180" height="180" src="https://lnd.hoo.com/api/generate?openid=TruSwjrK2q57V484Tf0u&isimg=1" alt="Bitcoin Lightning Network Donate"/></center>
-
 –EOF–
 
 版权声明：自由转载-非商用-非衍生-保持署名<a href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh" target="_blank">（创意共享4.0许可证）</a>

@@ -59,12 +59,6 @@ Lightning Loop 有什么作用呢？Lightning Loop 目的是解决目前通道�
 > 币安注册: [https://www.binancezh.com/cn/register/?ref=11190872](https://www.binancezh.com/cn/register/?ref=11190872)
 > 邀请码: **11190872**
 
-***
-
-本博客开通了闪电网络打赏，读者可以扫描下方的闪电网络二维码（博客右侧导航栏也有）进行打赏。
-
-<center><img title="Bitcoin Lightning Network Donate" width="180" height="180" src="https://lnd.hoo.com/api/generate?openid=TruSwjrK2q57V484Tf0u&isimg=1" alt="Bitcoin Lightning Network Donate"/></center>
-
 **参考资料**
 
 > [1] Lightning Labs Blog (2019-03-20). Announcing Lightning Loop Alpha: An Easier Way to Receive on Lightning. Retrieved from [https://blog.lightning.engineering/posts/2019/03/20/loop.html](https://blog.lightning.engineering/posts/2019/03/20/loop.html).

@@ -51,10 +51,6 @@ tags:
 
 ***
 
-本博客开通了闪电网络打赏，读者可以扫描下方的闪电网络二维码（博客右侧导航栏也有）进行打赏。
-
-<center><img title="Bitcoin Lightning Network Donate" width="180" height="180" src="https://lnd.hoo.com/api/generate?openid=TruSwjrK2q57V484Tf0u&isimg=1" alt="Bitcoin Lightning Network Donate"/></center>
-
 **参考资料**
 
 > [1] 维基百科 (2018-07-21). 多吉币. Retrieved from [https://zh.wikipedia.org/wiki/%E5%A4%9A%E5%90%89%E5%B8%81](https://zh.wikipedia.org/wiki/%E5%A4%9A%E5%90%89%E5%B8%81).

@@ -73,12 +73,6 @@ tags:
 > 币安注册: [https://www.binancezh.com/cn/register/?ref=11190872](https://www.binancezh.com/cn/register/?ref=11190872)
 > 邀请码: **11190872**
 
-***
-
-最后，本博客开通了闪电网络打赏，读者可以扫描下方的闪电网络二维码（博客右侧导航栏也有）进行打赏。
-
-<center><img title="Bitcoin Lightning Network Donate" width="180" height="180" src="https://lnd.hoo.com/api/generate?openid=TruSwjrK2q57V484Tf0u&isimg=1" alt="Bitcoin Lightning Network Donate"/></center>
-
 **参考资料**
 
 > [1] 36Kr (2018-02-26). 第一个用比特币买披萨的小伙又用闪电网络重现了历史. Retrieved from [https://36kr.com/p/5120949.html](https://36kr.com/p/5120949.html).
