@@ -33,9 +33,9 @@ tags:
 > 
 > Only doing this for the next 30 minutes! Enjoy.
 
-截至目前，诈骗者共收到 12.86 枚比特币，该比特币地址累计有 370 笔交易，目前依然有新的交易产生。黑客诈骗使用的比特币地址是最新的 bc1 格式，这个地址的大部分 BTC 已经被转移，可以访问如下链接进行查看：
+截至目前，诈骗者共收到 12.86 枚比特币，该比特币地址累计有 377 笔交易，目前依然有新的交易产生。黑客诈骗使用的比特币地址是最新的 bc1 格式，这个地址的大部分 BTC 已经被转移，可以访问如下链接进行查看：
 
-> https://btc.com/bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
+> https://www.blockchain.com/btc/address/bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
 
 ![](https://cdn.dbarobin.com/8uohst6.png)
 
