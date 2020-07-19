@@ -28,7 +28,7 @@ DeFi 有风险吗？当然有。被称为 DeFi 的黑天鹅事件，就发生在
 
 读者在上面的一张图中看到的断崖式下跌，就是黑天鹅事件导致的。幸运的是，DeFi 市场恢复过来，锁仓市值甚至超过了前高，几乎翻倍。DeFi 与流动性挖矿需要考虑的一些风险包括潜在的黑客，贷款清算，稳定币的解挂和作为奖励收到的代币的贬值。
 
-DeFi 一度被称为以太坊的救星。据 DeFi Pulse 数据，收录的 34 个项目，除了 Bitcoin 的 Lightning Network，其余 33 个项目全部基于以太坊网络。EOS 呢？也是有的，叫得上名号的有 [PIZZA](https://pizza.live)，还有最近火热的 [Defis](https://defis.network)。EOS 上的 DApp 生态，在 2019 年席卷整个区块链生态，如今却陷入死寂。EOS 生态留不住人，连当年知名的项目方 MEETONE 都出逃 EOS，奔向以太坊。恨铁不成钢的 EOS，在 DeFi 生态里，还有机会吗？EOS 靠 Voice 崛起，真得如此吗？
+DeFi 一度被称为以太坊的救星。据 DeFi Pulse 数据，收录的 34 个项目，除了 Bitcoin 的 Lightning Network，其余 33 个项目全部基于以太坊网络。EOS 呢？也是有的，叫得上名号的有 [PIZZA](https://pizza.live)，还有最近火热的 [Defis](https://defis.network)。EOS 上的 DApp 生态，在 2019 年席卷整个区块链生态，如今却陷入死寂。EOS 生态留不住人，连当年知名的项目方 MEETONE 都出逃 EOS，奔向以太坊。恨铁不成钢的 EOS，在 DeFi 生态里，还有机会吗？EOS 靠 Voice 崛起，真的如此吗？
 
 **我们进入了 DeFi Token 时代，这是财富密码，还是最终一地鸡毛**？
 
