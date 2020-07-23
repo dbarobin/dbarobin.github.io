@@ -81,6 +81,7 @@ tags:
 * [Bilibili UP 主「机智的党妹」被勒索了](https://dbarobin.com/2020/05/12/bilibili-up-blackmail/)
 * [隐私极客之 Apple 剪贴板](https://dbarobin.com/2020/07/10/apple-clipboard/)
 * [隐私极客之 Wi-Fi](https://dbarobin.com/2020/07/15/wifi/)
+* [隐私极客之 Namecheap](https://dbarobin.com/2020/07/23/namecheap/)
 
 ***
 
