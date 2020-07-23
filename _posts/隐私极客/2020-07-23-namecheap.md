@@ -4,7 +4,7 @@ author: Robin Wen
 layout: post
 title: 隐私极客之 Namecheap
 category: 隐私极客
-summary: 今天给大家介绍一个域名注册服务商，名叫 Namecheap。Namecheap，Inc. 是一家 ICANN（ICANN 全名为互联网名称与数字地址分配机构）认证的域名注册服务商，总部位于美国亚利桑那州凤凰城，由 Richard Kirkendall 于 2000 年创立。Namecheap 管理著超过 1000 万个域名，是全球顶级域名注册商提供商之一。如果您在使用 GoDaddy，把域名迁移到 Namecheap 吧，多些真诚，少些套路。
+summary: 今天给大家介绍一个域名注册服务商，名叫 Namecheap。Namecheap，Inc. 是一家 ICANN（ICANN 全名为互联网名称与数字地址分配机构）认证的域名注册服务商，总部位于美国亚利桑那州凤凰城，由 Richard Kirkendall 于 2000 年创立。Namecheap 管理着超过 800 万个域名，是全球顶级域名注册商提供商之一。如果您在使用 GoDaddy，把域名迁移到 Namecheap 吧，多些真诚，少些套路。
 tags:
   - 互联网
   - 隐私极客
@@ -29,21 +29,21 @@ tags:
 
 ![](https://cdn.dbarobin.com/nsvi62f.png)
 
-今天给大家介绍一个域名注册服务商，名叫 Namecheap。Namecheap，Inc. 是一家 ICANN（ICANN 全名为互联网名称与数字地址分配机构）认证的域名注册服务商，总部位于美国亚利桑那州凤凰城，由 Richard Kirkendall 于 2000 年创立。Namecheap 管理著超过 1000 万个域名，是全球顶级域名注册商提供商之一。
+今天给大家介绍一个域名注册服务商，名叫 Namecheap。Namecheap，Inc. 是一家 ICANN（ICANN 全名为互联网名称与数字地址分配机构）认证的域名注册服务商，总部位于美国亚利桑那州凤凰城，由 Richard Kirkendall 于 2000 年创立。Namecheap 管理着超过 800 万个域名，是全球顶级域名注册商提供商之一。
 
 Namecheap 主要历史事件：
 
 * 2000 年 Namecheap 由 Richard Kirkendall 创立；
-* 2001 年 Namecheap 网站啓动；
+* 2001 年 Namecheap 网站启动；
 * 2006 年域名买卖市场 (market place) 启动；
-* 2007 年网站寄存业务启动，同年得到 ICANN 认证；
-* 2008 年 Namecheap 收购 peoplehost.com2010 年；
-* 2011 年啓动 open-Xchange 电子邮件託管，超过 20000 美元捐赠给拯救大象组织；
+* 2007 年网站托管业务启动，同年得到 ICANN 认证；
+* 2008 年 Namecheap 收购 peoplehost.com；
+* 2011 年启动 open-Xchange 电子邮件托管，超过 20000 美元捐赠给拯救大象组织；
 * 2012 年超过 64000 美元捐赠给 EFF.org;
 * 2013 年 Namecheap 开始接受比特币作为一种付款方式；
-* 2019 年 7 月，Namecheap 还向 ICANN 提出重新审议「ICANN 价格上限决定」，要求其审查「取消.org 和.info TLD 价格上限的决定」，因爲如果取消价格上限，.org 和.info TLD 可能会加价，对消费者不利。
+* 2019 年 7 月，Namecheap 还向 ICANN 提出重新审议「ICANN 价格上限决定」，要求其审查「取消.org 和.info TLD 价格上限的决定」，因为如果取消价格上限，.org 和.info TLD 可能会加价，对消费者不利。
 
-Namecheap 提供的服务有：域名注册，域名买卖（marketplace），网站寄存（shared hosting)，经销商託管计划，SSL 证书，虚拟专用伺服器 VPS Hosting ，WordPress 寄存，WhoisGuard 隐私保护，专用伺服器 Dedicated Servers，电邮託管等。
+Namecheap 提供的服务有：域名注册，域名买卖（marketplace），网站托管（shared hosting)，经销商托管计划，SSL 证书，虚拟专用服务器 VPS Hosting ，WordPress 托管，WhoisGuard 隐私保护，专用服务器 Dedicated Servers，电邮托管等。
 
 购买域名，想必很多读者第一个联想到的是 GoDaddy。诚然，GoDaddy 占据了域名注册 18% 的市场份额，而 Namecheap 只有 2%。2020 年 3 月的数据，GoDaddy 总共域名数为 60935389，而 Namecheap 只有 8461533。
 
