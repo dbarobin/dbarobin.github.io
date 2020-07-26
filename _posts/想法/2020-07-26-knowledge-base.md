@@ -16,7 +16,7 @@ tags:
 
 ![](https://cdn.dbarobin.com/87u915a.png)
 
-知识库又叫做 Knowledge Base，简称 KB，这个缩写在微软系列产品中最为常见。本文想聊聊笔者构建 Knowledge Base 都用到那些工具，以及关于知识库的一些思考。
+知识库又叫做 Knowledge Base，简称 KB，这个缩写在微软系列产品中最为常见。本文想聊聊笔者构建 Knowledge Base 都用到哪些工具，以及关于知识库的一些思考。
 
 ## 知识库
 ***
@@ -87,7 +87,7 @@ MWeb 的多端同步是依赖 iCloud 或者 Dropbox 实现的，笔者在使用�
 * Dropbox Paper 提供多个快捷键，而且都相当实用；
 * Dropbox Paper 对 Markdown 表格的支持也特别友好；
 * 支持粘贴、拉拽上传图片到 Dropbox Paper，自动上传到 Dropbox CDN；
-* Dropbox Paper 支持插入日历，笔者的协作日历就是通过这个完成的；
+* Dropbox Paper 支持插入日历，笔者的写作日历就是通过这个完成的；
 * Dropbox Paper 的导出功能也特别好，支持导出为 PDF、Word、Markdown 文件。其中导出的 Markdown 文件，图片以链接的形式展现在文件中，用支持 Markdown 预览的编辑器打开，可以实时预览图片。
 
 笔者目前已经把 Dropbox Paper 作为主要的知识库工具。因不可控力，访问 Dropbox Paper 没那么方便，不过无所谓了，笔者的网络天然就是 7*24 小时顺畅的。
