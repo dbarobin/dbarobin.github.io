@@ -25,17 +25,17 @@ tags:
 
 钱包下载地址：
 
-* Telegram Bot(简单版): http://t.me/gram50bot
-* Android: https://ton.org/apps/wallet.apk
-* iOS: https://testflight.apple.com/join/sYg7ibyW
-* Windows: https://ton.org/apps/wsetup.0.9.8.exe
-* macOS: https://ton.org/apps/wsetup.0.9.8.dmg
+* Telegram Bot(简单版): [http://t.me/gram50bot](http://t.me/gram50bot)
+* Android: [https://ton.org/apps/wallet.apk](https://ton.org/apps/wallet.apk)
+* iOS: [https://testflight.apple.com/join/sYg7ibyW](https://testflight.apple.com/join/sYg7ibyW)
+* Windows: [https://ton.org/apps/wsetup.0.9.8.exe](https://ton.org/apps/wsetup.0.9.8.exe)
+* macOS: [https://ton.org/apps/wsetup.0.9.8.dmg](https://ton.org/apps/wsetup.0.9.8.dmg)
 
 水龙头地址：
 
-* https://toncommunity.org/faucet
-* http://t.me/gram50bot
-* 电报群领取，http://t.me/ton_cn
+* [https://toncommunity.org/faucet](https://toncommunity.org/faucet)
+* [http://t.me/gram50bot](http://t.me/gram50bot)
+* 电报群领取，[http://t.me/ton_cn](http://t.me/ton_cn)
 
 网页版水龙头，每次领取 20 个，每天只能领 3 次，一个地址最多领取 300 个。这是笔者领取到的测试币。
 
@@ -43,11 +43,11 @@ tags:
 
 作为开发者，您还可以选择 Lite-clinet，Full-node 和 Validator。具体的教程参考 GitHub：
 
-* https://github.com/TONCommunity/Project
+* [https://github.com/TONCommunity/Project](https://github.com/TONCommunity/Project)
 
 此外，您还可以在 Telegram 机器人领取主网空投代币，机器人地址：
 
-* http://t.me/TONCommunity_Bot
+* [http://t.me/TONCommunity_Bot](http://t.me/TONCommunity_Bot)
 
 2020 年 4 月，Telegram 的月活用户达到 4 亿，同比去年这个数据是 2 亿。如果 Pavel Durov 没有终止 TON，TON 势必会让加密货币的应用上一个台阶。幸运的是，TON 社区延续了火种，星星之火，可以燎原。TON 依然是值得关注的项目。
 
