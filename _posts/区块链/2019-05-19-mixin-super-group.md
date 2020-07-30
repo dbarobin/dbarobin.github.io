@@ -69,6 +69,7 @@ comments:
 | v3.7 | 更新 nodejs 版本 | 2019/12/18 14:34:19 | 更新到 node v13 |
 | v3.8 | 更新 schema.sql 位置 | 2019/12/18 15:349:38 | 解决权限问题 |
 | v3.9 | 更新 Go 版本 | 2020/01/17 12:33:16 | 更新到 1.13.6 |
+| v4.0 | 更新 service 启动方式 | 2020/07/30 16:24:34 | 其他小问题修复 |
 
 ## 一 前言
 ***
@@ -188,14 +189,14 @@ nginx version: nginx/1.14.0 (Ubuntu)
 命令如下：
 
 ``` bash
-$ curl -sL https://deb.nodesource.com/setup_13.x | sudo -E bash -
+$ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 $ apt-get -y install nodejs
 
 $ node -v
-v13.5.0
+v12.18.2
 
 $ npm -v
-6.11.2
+6.14.5
 ```
 
 ### 4.7 安装 Go
@@ -206,8 +207,8 @@ $ npm -v
 ``` bash
 $ mkdir -p /data/tmp
 $ cd /data/tmp
-$ wget https://dl.google.com/go/go1.13.6.linux-amd64.tar.gz
-$ tar -zxvf go1.13.6.linux-amd64.tar.gz
+$ wget https://dl.google.com/go/go1.14.6.linux-amd64.tar.gz
+$ tar -zxvf go1.14.6.linux-amd64.tar.gz
 $ mv go /usr/local
 ```
 
@@ -223,7 +224,7 @@ export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 $ source /etc/profile
 
 $ go version
-go version go1.13.6 linux/amd64
+go version go1.14.6 linux/amd64
 ```
 
 ### 4.8 编译后端
@@ -356,13 +357,13 @@ system:
   # 允许发送名片
   contact_message_enable: true
   # 限制发送频率，单位秒
-  limit_message_duration: 5
+  limit_message_duration: 0 # seconds: 60, 0 表示不限制
+  # 限制发送频率，消息条数
+  limit_message_number: 0 # number: 5 60s 5 条
   # 禁止发带二维码的图片
   detect_image: false
   # 禁止发送链接
   detect_link: false
-  # 支持撤回其他人的消息，管理员适用
-  prohibited_message: true
   # 管理员列表
   operator_list:
     - "e9a5b807-fa8b-455a-8dfa-b189d28310ff"
@@ -405,6 +406,7 @@ message_template:
   message_reward_label: "% s 给 % s 转了 % s % s"
   message_reward_memo: " 来自 % s"
   message_tips_too_many   : "发送太频繁"
+  message_tips_suspended   : " 由于您长时间未使用，暂停发送消息。"
   message_commands_info   : "/INFO"
   message_commands_info_resp: "当前订阅人数: %d"
 mixin:
@@ -598,7 +600,8 @@ After=network.target
 User=test
 Type=simple
 # 新版无需依赖 $GOPATH
-ExecStart=/data/supergroup.mixin.one/supergroup.mixin.one -service http -dir /data/supergroup.mixin.one
+# 注意 -dir 参数无效
+ExecStart=/data/supergroup.mixin.one/supergroup.mixin.one -config /data/supergroup.mixin.one/config.yaml -service http
 Restart=on-failure
 LimitNOFILE=65536
 
@@ -618,7 +621,8 @@ After=network.target
 User=test
 Type=simple
 # 新版无需依赖 $GOPATH
-ExecStart=/data/supergroup.mixin.one/supergroup.mixin.one -service message -dir /data/supergroup.mixin.one
+# 注意 -dir 参数无效
+ExecStart=/data/supergroup.mixin.one/supergroup.mixin.one -config /data/supergroup.mixin.one/config.yaml -service message
 Restart=on-failure
 LimitNOFILE=65536
 
