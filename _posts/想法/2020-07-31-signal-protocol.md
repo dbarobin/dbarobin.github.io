@@ -22,16 +22,16 @@ tags:
 
 隐私重要吗？当然重要。然而认为隐私重要并且想办法尽力保护的，这个比例却太少了。IM 的意思是「即时通讯」，这是我们日常生活中最常用的软件类别，比如 Telegram、WX 都是属于这个分类。然而这些软件并不安全，Telegram 是为了体验牺牲安全，然而 WX 不能做得很安全，原因在此不多说。
 
-在 IM 领域，有一个独特的开源加密协议存在，这就是 **Signal Protocol**。本文笔者先给大家介绍 Singal Protocol，然后说说哪些 IM 都用了这个协议。
+在 IM 领域，有一个独特的开源加密协议存在，这就是 **Signal Protocol**。本文笔者先给大家介绍 Signal Protocol，然后说说哪些 IM 都用了这个协议。
 
-## Singal Protocol
+## Signal Protocol
 ***
 
-首先我们来看看什么是 Singal Protocol。提到 Singal Protocal，不得不提及 Open Whisper Systems。Open Whisper Systems 是一个非营利软件开发团体，由 Moxie Marlinspike 在 2013 年创办。他们主要专注在研发 Signal 通信协议及维护相关的加密即时通讯软件 Signal。此团体依靠捐款及资助营运，他们的产品都是自由软件。
+首先我们来看看什么是 Signal Protocol。提到 Signal Protocal，不得不提及 Open Whisper Systems。Open Whisper Systems 是一个非营利软件开发团体，由 Moxie Marlinspike 在 2013 年创办。他们主要专注在研发 Signal 通信协议及维护相关的加密即时通讯软件 Signal。此团体依靠捐款及资助营运，他们的产品都是自由软件。
 
 Signal Protocol 是真正的端到端的通讯加密协议，号称是世界上最安全的通讯协议，任何第三方包括服务器都无法查看通讯内容。端到端加密，End-to-end encryption，是一个只有参与通讯的用户可以读取信息的通信系统。总的来说，它可以防止潜在的窃听者（包括电信供应商、互联网服务供应商甚至是该通讯系统的提供者），获取能够用以解密通讯的密钥。这个功能的重要性对于日常使用 IM 的用户而言不言而喻。
 
-接下来笔者向大家介绍哪些 IM 都使用了 Singal Protocol。
+接下来笔者向大家介绍哪些 IM 都使用了 Signal Protocol。
 
 ## Signal
 ***
