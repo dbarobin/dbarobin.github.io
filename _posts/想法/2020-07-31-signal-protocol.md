@@ -74,7 +74,7 @@ Skype 引入端对端加密比较晚，在用户的心理建设上还不充分�
 ## Mixin Messenger
 ***
 
-Mixin Messenger 是 Mixin 团队 2018 年发布的产品。Mixin Messenger 提供 iOS、Android、macOS、Windows、Linux 版本。Mixin Messenger 各个版本的客户端都是开源的，GitHub 地址：[github.com/MixinNetwork](https://github.com/MixinNetwork/)。同样，Mixin Messenger 采用 Signal Protocol 实现端对端加密，还开源了一个 Dart/Flutter 的 Signal Protocol 库。
+**Mixin Messenger** 是 Mixin 团队 2018 年发布的产品。Mixin Messenger 提供 iOS、Android、macOS、Windows、Linux 版本。Mixin Messenger 各个版本的客户端都是开源的，GitHub 地址：[github.com/MixinNetwork](https://github.com/MixinNetwork/)。同样，Mixin Messenger 采用 Signal Protocol 实现端对端加密，还开源了一个 Dart/Flutter 的 Signal Protocol 库。
 
 Mixin Messenger 跟其他端对端加密的产品都不一样，因为这是一个对加密货币友好的跨链项目。Mixin 是最有创意也最有前途由国人主导的区块链创业项目，包括 Mixin Messenger、Mixin Network、Mixin API。然而由于偏见，大多数的人对这个项目却视而不见。
 
