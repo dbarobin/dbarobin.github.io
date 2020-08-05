@@ -70,6 +70,7 @@ comments:
 | v3.8 | 更新 schema.sql 位置 | 2019/12/18 15:349:38 | 解决权限问题 |
 | v3.9 | 更新 Go 版本 | 2020/01/17 12:33:16 | 更新到 1.13.6 |
 | v4.0 | 更新 service 启动方式 | 2020/07/30 16:24:34 | 其他小问题修复 |
+| v4.1 | 更新 daemon-reload | 2020/08/05 16:32:11 | 其他小问题修复 |
 
 ## 一 前言
 ***
@@ -193,7 +194,7 @@ $ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 $ apt-get -y install nodejs
 
 $ node -v
-v12.18.2
+v12.18.3
 
 $ npm -v
 6.14.5
@@ -295,7 +296,7 @@ Enter the new value, or press ENTER for the default
         Other []:
 Is the information correct? [Y/n] y
 
-$ cp -v /data/supergroup.mixin.one/schema.sql /home/test
+$ cp -v /data/supergroup.mixin.one/models/schema.sql /home/test
 $ chown test:test /home/test/schema.sql
 
 $ sudo -i -u test
