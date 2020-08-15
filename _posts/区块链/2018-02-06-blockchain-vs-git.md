@@ -54,7 +54,7 @@ comments:
 
 ---
 
-`文/robin`
+`文/Robin`
 
 > 本文由币乎(bihu.com)优质内容计划支持。
 
