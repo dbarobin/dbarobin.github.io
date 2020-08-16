@@ -2,7 +2,7 @@
 published: true
 author: Robin Wen
 layout: post
-title: 论执行力
+title: 聊聊执行力
 category: 想法
 summary: "每个人的心中都住着一个天使，一个魔鬼。天使让你踌躇满志，魔鬼使你止步不前。天使就是愿景，魔鬼就是惰性。什么是执行力？简单讲就是「愿景落实到细节的能力」。于个人而言，是要 Make things happen；于团队而言，是要 Make the goal happen；于公司而言，是要 Make a successful company happen。本文主要从个人的角度聊聊「执行力」。以上，就是笔者关于「执行力」的经验。执行力的提升不是三两天就能完成的，这是一个需要不断精进的能力。希望能对笔者有所启发。"
 tags:
