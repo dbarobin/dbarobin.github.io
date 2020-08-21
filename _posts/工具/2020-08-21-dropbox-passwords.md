@@ -18,7 +18,7 @@ tags:
 
 ![](https://cdn.dbarobin.com/9am716f.png)
 
-Dropbox 最近正式发布了它的密码管理器 Dropbox Passwords，支持 Android、iOS、macOS、Windows。它的功能与其它密码管理器类似，支持一键登录应用和网站，在登录应用和网站时存储密码，随时随地访问密码，并自动同步到所有设备，能生成随机的强密码。
+Dropbox 最近正式发布了它的密码管理器 **Dropbox Passwords**，支持 Android、iOS、macOS、Windows。它的功能与其它密码管理器类似，支持一键登录应用和网站，在登录应用和网站时存储密码，随时随地访问密码，并自动同步到所有设备，能生成随机的强密码。
 
 Dropbox Passwords 利用零知识加密技术来保护登陆凭据，确保只有用户才能访问密码，而即使是 Dropbox 也无法访问。Dropbox Passwords 提供给 Dropbox Plus 或 Professional 订阅用户。
 
