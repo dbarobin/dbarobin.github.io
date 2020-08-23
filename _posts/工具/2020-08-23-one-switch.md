@@ -19,7 +19,7 @@ tags:
 
 **One Switch** 是由国内知名开发者 TualatriX 带来的最新作品，功能小巧精简，设计优雅，犹如一块多功能的遥控器，通过状态栏快捷菜单即可「一键」快速实现保持亮屏、切换 AirPods、切换黑暗模式、锁定键盘、锁定屏幕、清空剪贴板、Xcode 缓存清理等功能。
 
-One Switch 的官网是：[fireball.studio/oneswitch/](https://fireball.studio/oneswitch/)。可以通过 PayPal、信用卡、少数派 Pi Store、数码荔枝淘宝店、APSGO 软购商城购买，同时还上架了 Setapp。
+One Switch 的官网是：[fireball.studio/oneswitch](https://fireball.studio/oneswitch/)。可以通过 PayPal、信用卡、少数派 Pi Store、数码荔枝淘宝店、APSGO 软购商城购买，同时还上架了 Setapp。
 
 One Switch 目前提供 20 个小工具，替代的软件如下：
 
