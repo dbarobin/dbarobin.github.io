@@ -3,7 +3,7 @@ published: true
 author: Robin Wen
 layout: post
 title: Crypto-trade24
-category: 投资
+category: 比特币
 summary: 今天笔者想给大家聊一聊一段有趣的经历，也是关于诈骗的，这里涉及到一个名叫「Crypto-trade24」的交易所。某个晚上，一个叫做「Brayan Connelly」的人在 Telegram 上找到笔者，宣称他的国家禁止比特币，让笔者帮他将他在交易所的比特币转到他的钱包地址。Crypto-trade24 提币手续费高，是想尽可能地减少用户提币，最小充值要求高，也是想尽可能地让用户多充值。而且需要充值才能提币，这一系列操作，造就了流入容易流出艰难的境地。遇到类似的骗局，记住一条，永远不要充值，不管是什么样的诱惑。加密货币世界，制造这样的骗局太容易了，而且 Telegram 没有 KYC，您永远不知道背后的力量究竟是什么。
 tags:
   - 比特币
