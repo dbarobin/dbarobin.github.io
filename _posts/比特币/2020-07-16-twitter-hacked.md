@@ -3,10 +3,9 @@ published: true
 author: Robin Wen
 layout: post
 title: Twitter 被黑
-category: 想法
+category: 比特币
 summary: 据福布斯报道，今日凌晨，多位名人政要、一些公司以及加密货币大 V 的推特账号被黑客袭击，包括苹果公司、特斯拉 CEO 埃隆・马斯克、比尔・盖茨、美国前总统奥巴马、美国总统候选人拜登、彭博社创始人 Bloomberg，著名歌手侃爷 Kenye West、Gemini、Coinbase、币安 CEO 赵长鹏、Tron 波场创始人孙宇晨、区块链媒体 CoinDesk 等推特账户都发布了相关的数字货币钓鱼骗局信息。互联网的另一端，你永远不知道是谁。那些看不到的地方，汹涌澎湃。对于个人和公司而言，安全警钟长鸣。
 tags:
-  - 想法
   - 比特币
   - Bitcoin
   - 推特
