@@ -39,7 +39,7 @@ Installation via git clone or download this repo.
 
 ## Preview
 
-![](https://dbarobin.com/images/dbarobin.com.screenshots.200427.jpg)
+![](https://dbarobin.com/images/dbarobin.com.screenshots.200830.png)
 
 ## Contact
 
