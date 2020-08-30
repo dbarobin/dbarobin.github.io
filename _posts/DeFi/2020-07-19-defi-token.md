@@ -3,11 +3,11 @@ published: true
 author: Robin Wen
 layout: post
 title: 进入 DeFi Token 时代
-category: 想法
+category: DeFi
 summary: Medium 有篇文章，Entering the DeFi Token Era，讲述了 DeFi 的市值不断扩大，还有 DeFi Token 的创新，详细讲述了 Compound、Balancer、Synthetix 及其 Token 的运作模式。DeFi 一度被称为以太坊的救星。据 DeFi Pulse 数据，收录的 34 个项目，除了 Bitcoin 的 Lightning Network，其余 33 个项目全部基于以太坊网络。EOS 呢？也是有的，叫得上名号的有 PIZZA，还有最近火热的 Defis。EOS 上的 DApp 生态，在 2019 年席卷整个区块链生态，如今却陷入死寂。EOS 生态留不住人，连当年知名的项目方 MEETONE 都出逃 EOS，奔向以太坊。恨铁不成钢的 EOS，在 DeFi 生态里，还有机会吗？EOS 靠 Voice 崛起，真得如此吗？我们进入了 DeFi Token 时代，这是财富密码，还是最终一地鸡毛？
 tags:
-  - 想法
   - DeFi
+  - 想法
 ---
 
 `文/Robin`
