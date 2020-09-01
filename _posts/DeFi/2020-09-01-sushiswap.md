@@ -2,7 +2,7 @@
 published: true
 author: Robin Wen
 layout: post
-title: SushiSwap
+title: 流动性洗劫者 SushiSwap
 category: DeFi
 summary: "这两天一个项目火了，那就是 SushiSwap。SushiSwap 是个什么样的项目？一个「升级版」的去中心化交易所，相比于 Uniswap，添加了流动性挖矿，并以类似 YAM 挖矿的方式发放治理代币（SUSHI）。Uniswap 拿了 VC 的钱，自然是要对股东负责。然而 SushiSwap 是社区推动的，也把足够的利润可以给到提供流动性的交易者。目前 SUSHI 价格 $10.78，短时间 CoinMarketCap 排名就 61 了。所以说 SushiSwap 模式自然是革 VC 的命。未来 Uniswap 会怎么对抗，拭目以待吧。"
 tags:
