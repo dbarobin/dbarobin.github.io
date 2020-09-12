@@ -2,7 +2,7 @@
 published: true
 author: Robin Wen
 layout: post
-title: Solana 和 DeFi
+title: DeFi 和 Solana
 category: DeFi
 summary: "最新消息，稳定币发行商 Tether（USDT）宣布在公链项目 Solana 上发行 USDT 稳定币。Solana 开发者称该区块链比以太坊更快更便宜，Tether 表示，Solana 可以帮助用户以每秒超过 50000 笔交易的速度兑换 USDT，通常每笔交易的价格不到 0.00001 美元。Solana 也成为 Tether 继 Omni、Ethereum、EOS、Tron、Liquid Network、Algorand、BCH、OMG Network 后第九条支持的公链。Tether 将在 Solana 发行 USDT，同时 SushiSwap 背后的 FTX 也是 Solana 最大的支持者之一，Solana 势必在 DeFi 崭露头角。"
 tags:
