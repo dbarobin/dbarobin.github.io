@@ -8,9 +8,8 @@ summary: "2020 年 10 月 14 日，知名硬件钱包 Trezor 发布了 Trezor Su
 tags:
   - 比特币
   - Bitcoin
-  - ATM
-  - 特斯拉
-  - Tesla
+  - Trezor
+  - Ledger
 ---
 
 `文/Robin`
