@@ -67,8 +67,8 @@ Twitter 对此事件进行调查后，公司检测到了一次协同式社交工
 
 币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易。
 
-> 币安注册: [https://www.binancezh.com/cn/register/?ref=11190872](https://www.binancezh.com/cn/register/?ref=11190872)
-> 邀请码: **11190872**
+* 币安注册: [https://www.binancezh.com/cn/register/?ref=11190872](https://www.binancezh.com/cn/register/?ref=11190872)
+* 邀请码: **11190872**
 
 ***
 
