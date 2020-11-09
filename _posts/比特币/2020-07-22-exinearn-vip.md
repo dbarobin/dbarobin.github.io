@@ -9,6 +9,7 @@ tags:
   - 比特币
   - Bitcoin
   - 水龙头
+  - ExinEarn
   - 唯品会
   - 投资
 ---

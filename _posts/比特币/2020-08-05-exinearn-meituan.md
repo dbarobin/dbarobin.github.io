@@ -9,6 +9,7 @@ tags:
   - 比特币
   - Bitcoin
   - 水龙头
+  - ExinEarn
   - 美团
   - 美团外卖
   - 投资
