@@ -24,4 +24,10 @@ permalink: /share/
 
 * 2019/03/16，深圳区块链技术工坊，[EOS 钱包，DApp 超级入口](https://git.io/fjvWe)
 
+#### 2020
+***
+
+* 2020/09/10～至今，MiFi 大本营，DeFi 漫谈
+* 2020/10/24，创享会，加密货币行业的机会
+
 © Robin Wen
