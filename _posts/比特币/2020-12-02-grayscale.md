@@ -4,7 +4,7 @@ author: Robin Wen
 layout: post
 title: Grayscale DropGold
 category: 比特币
-summary: "2020 年 12 月 1 日，灰度投资（Grayscale Investments）发推展示一段长达 30 秒的「DropGold」广告视频，建议投资者放弃黄金，投资比特币等数字资产，最后的广告语为「Go Digital，Go Grayscale」。灰度首席执行官 Barry Silbert 表示，这则广告将在美国多家电视网络上投放。DropGold 网站提到并不是 Gold 不好，而是 Bitcoin 更好。我们进入了数字时代，那 Bitcoin 就是数字时代的黄金。Grayscale 在加密货币的影响力是非常大的。在美元通胀的情况下，越来越多的资金将会涌入加密货币，类似灰度这样的机构就是最好的入口。Go Digital，Go Grayscale."
+summary: "2020 年 12 月 1 日，灰度投资（Grayscale Investments）发推展示一段长达 30 秒的「DropGold」广告视频，建议投资者放弃黄金，投资比特币等数字资产，最后的广告语为「Go Digital，Go Grayscale」。灰度首席执行官 Barry Silbert 表示，这则广告将在美国多家电视网络上投放。DropGold 网站提到并不是 Gold 不好，而是 Bitcoin 更好。我们进入了数字时代，那 Bitcoin 就是数字时代的黄金。Grayscale 在加密货币的影响力是非常大的。在美元通胀的情况下，越来越多的资金将会涌入加密货币，类似灰度这样的机构就是最好的入口。Go Digital，Go Grayscale."
 tags:
   - 比特币
   - Bitcoin
