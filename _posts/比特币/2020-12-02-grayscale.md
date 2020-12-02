@@ -18,7 +18,7 @@ tags:
 
 ![](https://cdn.dbarobin.com/miw0s9i.png)
 
-2020 年 12 月 1 日，灰度投资（Grayscale Investments）发推展示一段长达 30 秒的「DropGold」广告视频，建议投资者放弃黄金，投资比特币等数字资产，最后的广告语为「Go Digital，Go Grayscale」。灰度首席执行官 Barry Silbert 表示，这则广告将在美国多家电视网络上投放。
+2020 年 12 月 1 日，灰度投资（Grayscale Investments）发推展示一段长达 30 秒的「DropGold」广告视频，建议投资者放弃黄金，投资比特币等数字资产，最后的广告语为「**Go Digital，Go Grayscale**」。灰度首席执行官 Barry Silbert 表示，这则广告将在美国多家电视网络上投放。
 
 灰度最早于 2019 年 5 月启动「DropGold」活动，甚至还专门注册了一个 dropgold.com 的域名。Grayscale 的 Twitter 发布的视频，也是在 2019 年 5 月就制作完成。如今宣布在美国多家电视网络上投放，肯定是时机成熟了。
 
