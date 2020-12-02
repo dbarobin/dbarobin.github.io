@@ -34,7 +34,7 @@ tags:
 
 ![](https://cdn.dbarobin.com/rj1gmr9.jpg)
 
-DropGold 网站提到并不是 Gold 不好，而是 Bitcoin 更好。我们进入了数字时代，那 Bitcoin 就是数字时代的黄金。Grayscale 在加密货币的影响力是非常大的。在美元通胀的情况下，越来越多的资金将会涌入加密货币，类似灰度这样的机构就是最好的入口。
+DropGold 网站提到并不是 Gold 不好，而是 Bitcoin 更好。我们进入了数字时代，那 Bitcoin 就是数字时代的黄金。Grayscale 在加密货币的影响力是非常大的。在美元通胀的情况下，越来越多的资金将会涌入加密货币，类似灰度这样的机构就是最好的入口。
 
 Go Digital，Go Grayscale.
 
