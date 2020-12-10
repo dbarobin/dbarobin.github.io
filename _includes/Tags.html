@@ -1,7 +1,7 @@
 <div class="sidebar-module">
     <h4>{{ site.locales[site.default_locale].Tags }}</h4>
     {% for tag in site.tags %}
-        {% if tag[1].size > 1 %}
+        {% if tag[1].size > 2 %}
             <a href="{{ site.baseurl }}/tags/#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
         {% endif %}
     {% endfor %}
