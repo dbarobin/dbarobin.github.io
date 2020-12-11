@@ -11,7 +11,7 @@ tags:
   - Ethereum
   - EOS
   - 波场
-  - Tron
+  - TRON
   - 区块链
 ---
 

@@ -10,7 +10,7 @@ tags:
   - 以太坊
   - Ethereum
   - 波场
-  - Tron
+  - TRON
   - EOS
   - 区块链
 ---
