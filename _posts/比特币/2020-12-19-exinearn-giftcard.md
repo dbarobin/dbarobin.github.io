@@ -34,6 +34,12 @@ tags:
 
 ***
 
+最后，App Store、各大安卓市场均有下载，关键词「水龙头」​，也可以扫描​下图的二维码注册。​我的邀请码：**3XKXJB**，点击[注册](https://app.exinearn.com/invite/3XKXJB?source=poster)。
+
+![](https://cdn.dbarobin.com/kwdjijt.png)
+
+***
+
 我是区块链罗宾，博客 [dbarobin.com](https://dbarobin.com/)。如果您想和我交流，我的微信: **Wentasy**
 
 ![](https://cdn.dbarobin.com/v4yywe2.png)
