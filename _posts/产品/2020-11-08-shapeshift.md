@@ -3,10 +3,10 @@ published: true
 author: Robin Wen
 layout: post
 title: ShapeShift 下架 XMR 和 DASH
-category: 想法
+category: 产品
 summary: "2020 年 11 月 7 日，加密货币交易平台 ShapeShift 下线了两个隐私币 Monero（门罗币、XMR）和 Dash（达世币、DASH）。交易所下架 XMR、DASH，早前就有很多先例。ShapeShift 是全球领先的即时数字资产交换平台，早期采用的是无账号模式交易加密货币，不过在 2018 年 9 月必须要注册账号才能交易了。2015 年 9 月，ShapeShift 获得 160 万美元投资，包括 Roger Ver 及 Bitfinex 交易平台等。值得一提的是，KeepKey 这款硬件钱包被 ShapeShift 收购了。XMR 更多的用户群体在国外，毕竟大多数中国人是不需要什么隐私的，只要赚钱就行。在比特币成为数字黄金之后，XMR 践行的更像是比特币的初衷。"
 tags:
-  - 想法
+  - 产品
   - ShapeShift
   - XMR
   - DASH

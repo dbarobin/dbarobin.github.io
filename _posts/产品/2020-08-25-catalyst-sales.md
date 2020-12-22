@@ -3,10 +3,10 @@ published: true
 author: Robin Wen
 layout: post
 title: Bitfinex 推出 Catalyst Sales
-category: 想法
+category: 产品
 summary: "2020 年 8 月 18 日，Bitfinex 宣布推出 Catalyst Sales，首个即插即用代币销售技术解决方案。Catalyst Sales 旨在为 BTS（Bitfinex Token Sales）用户带来高质量的代币项目，同时为这些项目提供一种发展社区、扩大网络和重新吸引现有用户的方式。代币发行者可以利用一流的 BTS 技术来运行代币销售和分发他们的代币。Bitfinex 推出的 Catalyst Sales，第一期以 Fetch.ai 作为起点，想必未来还会引入更多的项目，可以关注下。"
 tags:
-  - 想法
+  - 产品
   - 区块链
   - Bitfinex
 ---

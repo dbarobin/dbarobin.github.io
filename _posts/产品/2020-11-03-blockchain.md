@@ -3,10 +3,10 @@ published: true
 author: Robin Wen
 layout: post
 title: Blockchain.com 也有 Podcast 了
-category: 想法
+category: 产品
 summary: "Blockchain.com 推出了一款 Podcast，名字就叫做「The Blockchain.com Podcast」。这款 Podcast 可以在 Apple Podcasts、Castbox、Google Podcasts、Spotify 等平台收听，目前已经有 5 期节目了。简单讲，Blockchain.com 有 3 个主要业务，钱包、交易所、数据服务。在钱包里可以买卖加密货币、比特币投资、使用比特币抵押借贷、币币兑换。在交易所可以使用 USD、EUR、GBP、TRY 4 种法币充值、专业的撮合引擎交易系统。数据服务提供主流币种的浏览器数据服务、区块链数据 API 服务、行业顶尖的行情图标、实时的加密货币价格数据。Blockchain.com 就为大家介绍到这里，大家感兴趣可以去订阅他们的 Podcast。"
 tags:
-  - 想法
+  - 产品
   - 区块链
   - Blockchain
   - Podcast

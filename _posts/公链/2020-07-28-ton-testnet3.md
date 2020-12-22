@@ -3,10 +3,10 @@ published: true
 author: Robin Wen
 layout: post
 title: TON 社区版测试网上线
-category: 想法
+category: 公链
 summary: 「TON 中文社区」今天发布信息，由 TONCommunity.org 发行的社区版TON测试网 testnet3 现已上线。目前可以通过水龙头领取「测试币」，而且测试网阶段可基本实现在 Telegram 上转账。另外，社区正在面向所有 Telegram 用户空投主网代币。2020 年 4 月，Telegram 的月活用户达到 4 亿，同比去年这个数据是 2 亿。如果 Pavel Durov 没有终止 TON，TON 势必会让加密货币的应用上一个台阶。幸运的是，TON 社区延续了火种，星星之火，可以燎原。TON 依然是值得关注的项目。Try to fight with The Great Wave.
 tags:
-  - 想法
+  - 公链
   - TON
   - Telegram
 ---
