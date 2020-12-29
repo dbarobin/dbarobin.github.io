@@ -15,7 +15,7 @@ tags:
 
 ***
 
-![](https://cdn.dbarobin.com/oh94hqk.png)
+![](https://cdn.dbarobin.com/kbwt9o5.png)
 
 2020 年 12 月 29 日，OKEx 发布公告称，OKExChain 将分四个阶段启动主网，其中第一阶段是 OKExChain 创世阶段，OKT 创世发行将于 2021 年 1 月 1 日 0:00 开始，于 2021 年 1 月 14 日 24:00 结束。在此期间，OKB 持有者可质押 OKB 领取 OKT 作为回报。此后，OKExChain 将分别完成主网稳定性测试、转账功能及智能合约虚拟机开启等工作。链闻注，OKT 是 OKExChain 的原生代币，可用于去中心化交易和 DeFi 应用的建设，例如投票和作为手续费等，OKT 的创世发行量为 1000 万枚。
 
