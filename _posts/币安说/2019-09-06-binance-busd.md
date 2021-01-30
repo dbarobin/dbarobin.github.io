@@ -19,7 +19,7 @@ tags:
 
 币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易。
 
-> 币安注册: [https://accounts.binancezh.pro/cn/register/?ref=11190872](https://accounts.binancezh.pro/cn/register/?ref=11190872)
+> 币安注册: [https://accounts.binancezh.cc/cn/register/?ref=11190872](https://accounts.binancezh.cc/cn/register/?ref=11190872)
 > 邀请码: **11190872**
 
 ***
@@ -33,7 +33,7 @@ tags:
 
 币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易，目前上架的币种数量为 166 个。
 
-> 币安注册: [https://accounts.binancezh.pro/cn/register/?ref=11190872](https://accounts.binancezh.pro/cn/register/?ref=11190872)
+> 币安注册: [https://accounts.binancezh.cc/cn/register/?ref=11190872](https://accounts.binancezh.cc/cn/register/?ref=11190872)
 > 邀请码: **11190872**
 
 根据币安最新的 [公告](https://binance.zendesk.com/hc/zh-cn/articles/360033461831)，Binance 发行合规稳定币 Binance USD（BUSD）。笔者在本文为大家介绍稳定币以及 BUSD。
@@ -67,7 +67,7 @@ USDT 于 2014 年发行，现在有 4 个版本，分别是 Omni（比特币）�
 
 待 BUSD 正式发行后，将上线 Binance，上线时间未知，读者可以保持对「币安说」的持续关注。
 
-币安交易所账号注册点击 [此处](https://accounts.binancezh.pro/cn/register/?ref=11190872)。
+币安交易所账号注册点击 [此处](https://accounts.binancezh.cc/cn/register/?ref=11190872)。
 
 ## 三 小结
 ***
@@ -80,7 +80,7 @@ USDT 于 2014 年发行，现在有 4 个版本，分别是 Omni（比特币）�
 
 币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易。
 
-> 币安注册: [https://accounts.binancezh.pro/cn/register/?ref=11190872](https://accounts.binancezh.pro/cn/register/?ref=11190872)
+> 币安注册: [https://accounts.binancezh.cc/cn/register/?ref=11190872](https://accounts.binancezh.cc/cn/register/?ref=11190872)
 > 邀请码: **11190872**
 
 ***
