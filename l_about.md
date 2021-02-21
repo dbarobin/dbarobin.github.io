@@ -19,7 +19,7 @@ permalink: /about/
 
 个人公众号：
 
-* 「区块链罗宾」（微信号：**vvrobin**）
+* 「区块链罗宾」（微信号：**robinbtc**）
 * 「区块链技术指北」（微信号：**BlockchainAge**）
 * 「隐私极客」（微信号：**privacygeek**）
 * 「币安说」（微信号：**binancezh**）
