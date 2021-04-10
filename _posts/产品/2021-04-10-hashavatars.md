@@ -7,10 +7,10 @@ category: 产品
 summary: "无意中发现一个很有趣的产品，叫做 HashAvatars。HashAvatars 是在以太坊的 Layer 2 侧链 xDai 中运行的，生成每一个 HashAvatar 需要 1 xDai，也就是 1 USD。但是生成之后，你可以用任意的价格进行售卖。你生成的头像或者你购买的头像，不会被复制或者销毁，将会永久存储在区块链网络上。HashAvatars 的网站是 thehashavatars.com，感兴趣可以去体验下。"
 tags:
   - 产品
-  - HashAvatars
   - DeFi
   - xDai
   - NFT
+  - HashAvatars
 ---
 
 `文/Robin`
