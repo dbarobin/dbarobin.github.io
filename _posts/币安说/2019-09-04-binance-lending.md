@@ -19,7 +19,7 @@ tags:
 
 币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易。
 
-> 币安注册: [https://accounts.binancezh.cc/cn/register/?ref=11190872](https://accounts.binancezh.cc/cn/register/?ref=11190872)
+> 币安注册: [https://accounts.binancezh.co/cn/register/?ref=11190872](https://accounts.binancezh.co/cn/register/?ref=11190872)
 > 邀请码: **11190872**
 
 ***
@@ -33,7 +33,7 @@ tags:
 
 币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易，目前上架的币种数量为 166 个。
 
-> 币安注册: [https://accounts.binancezh.cc/cn/register/?ref=11190872](https://accounts.binancezh.cc/cn/register/?ref=11190872)
+> 币安注册: [https://accounts.binancezh.co/cn/register/?ref=11190872](https://accounts.binancezh.co/cn/register/?ref=11190872)
 > 邀请码: **11190872**
 
 ## 二 币安宝
@@ -65,7 +65,7 @@ tags:
 * 起息日：开始计算利息的日期
 * 赎回日：用户本金和利息到账的日期
 
-申购地址：[https://accounts.binancezh.cc/cn/lending](https://accounts.binancezh.cc/cn/lending)，账号注册点击 [此处](https://accounts.binancezh.cc/cn/register/?ref=11190872)。
+申购地址：[https://accounts.binancezh.co/cn/lending](https://accounts.binancezh.co/cn/lending)，账号注册点击 [此处](https://accounts.binancezh.co/cn/register/?ref=11190872)。
 
 ![](https://cdn.dbarobin.com/binance/002/002-binance-lending-01.png)
 
@@ -90,7 +90,7 @@ tags:
 
 币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易。
 
-> 币安注册: [https://accounts.binancezh.cc/cn/register/?ref=11190872](https://accounts.binancezh.cc/cn/register/?ref=11190872)
+> 币安注册: [https://accounts.binancezh.co/cn/register/?ref=11190872](https://accounts.binancezh.co/cn/register/?ref=11190872)
 > 邀请码: **11190872**
 
 ***

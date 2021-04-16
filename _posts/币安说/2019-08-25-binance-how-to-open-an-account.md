@@ -19,7 +19,7 @@ tags:
 
 币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易。
 
-> 币安注册: [https://accounts.binancezh.cc/cn/register/?ref=11190872](https://accounts.binancezh.cc/cn/register/?ref=11190872)
+> 币安注册: [https://accounts.binancezh.co/cn/register/?ref=11190872](https://accounts.binancezh.co/cn/register/?ref=11190872)
 > 邀请码: **11190872**
 
 ***
@@ -33,7 +33,7 @@ tags:
 
 币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易，目前上架的币种数量为 166 个。
 
-> 币安注册: [https://accounts.binancezh.cc/cn/register/?ref=11190872](https://accounts.binancezh.cc/cn/register/?ref=11190872)
+> 币安注册: [https://accounts.binancezh.co/cn/register/?ref=11190872](https://accounts.binancezh.co/cn/register/?ref=11190872)
 > 邀请码: **11190872**
 
 ## 二 如何开户
@@ -45,7 +45,7 @@ tags:
 
 ### 2.1 邮箱注册
 
-首先准备一个邮箱，并且登录该邮箱。笔者建议使用 Gmail，如果使用 Google 有障碍的朋友，建议使用 QQ 邮箱，非常不建议使用 163 邮箱。访问 [https://accounts.binancezh.cc/cn/register/?ref=11190872](https://accounts.binancezh.cc/cn/register/?ref=11190872)（该域名对中国用户友好），填写常用「邮箱」、输入「复杂密码」，推荐人 ID 填写 **11190872**，把「我已满 18 岁，并同意币安服务条款」打勾，最后点击「注册」。
+首先准备一个邮箱，并且登录该邮箱。笔者建议使用 Gmail，如果使用 Google 有障碍的朋友，建议使用 QQ 邮箱，非常不建议使用 163 邮箱。访问 [https://accounts.binancezh.co/cn/register/?ref=11190872](https://accounts.binancezh.co/cn/register/?ref=11190872)（该域名对中国用户友好），填写常用「邮箱」、输入「复杂密码」，推荐人 ID 填写 **11190872**，把「我已满 18 岁，并同意币安服务条款」打勾，最后点击「注册」。
 
 ![](https://cdn.dbarobin.com/binance/001/001-binance-open-01.png)
 
@@ -303,7 +303,7 @@ tags:
 
 图 42，审核确认信息
 
-审核通过后，进入人脸信息认证。此步骤需要下载 App 才能完成。App 点击 [此处](https://accounts.binancezh.cc/cn/download) 下载。
+审核通过后，进入人脸信息认证。此步骤需要下载 App 才能完成。App 点击 [此处](https://accounts.binancezh.co/cn/download) 下载。
 
 网页会有一个二维码，App 点击「帮助 & 支持」，点击「扫一扫」，按照提示进行人脸认证。
 
@@ -320,7 +320,7 @@ tags:
 
 币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易。
 
-> 币安注册: [https://accounts.binancezh.cc/cn/register/?ref=11190872](https://accounts.binancezh.cc/cn/register/?ref=11190872)
+> 币安注册: [https://accounts.binancezh.co/cn/register/?ref=11190872](https://accounts.binancezh.co/cn/register/?ref=11190872)
 > 邀请码: **11190872**
 
 ***
