@@ -60,7 +60,7 @@ Uniswap 这种 DEX 无需 KYC，无需托管，自然是吸引到另外一批典
 
 币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易。
 
-> 币安注册: [https://accounts.binancezh.co/cn/register/?ref=11190872](https://accounts.binancezh.co/cn/register/?ref=11190872)
+> 币安注册: [https://accounts.binancezh.io/cn/register/?ref=11190872](https://accounts.binancezh.io/cn/register/?ref=11190872)
 > 邀请码: **11190872**
 
 ***

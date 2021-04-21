@@ -19,7 +19,7 @@ tags:
 
 币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易。
 
-> 币安注册: [https://accounts.binancezh.co/cn/register/?ref=11190872](https://accounts.binancezh.co/cn/register/?ref=11190872)
+> 币安注册: [https://accounts.binancezh.io/cn/register/?ref=11190872](https://accounts.binancezh.io/cn/register/?ref=11190872)
 > 邀请码: **11190872**
 
 ***
@@ -33,7 +33,7 @@ tags:
 
 币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易，目前上架的币种数量为 166 个。
 
-> 币安注册: [https://accounts.binancezh.co/cn/register/?ref=11190872](https://accounts.binancezh.co/cn/register/?ref=11190872)
+> 币安注册: [https://accounts.binancezh.io/cn/register/?ref=11190872](https://accounts.binancezh.io/cn/register/?ref=11190872)
 > 邀请码: **11190872**
 
 ## 二 双合约
@@ -64,7 +64,7 @@ Binance 将上线合约交易平台（Binance Futures），并同时推出两个
 
 ### 2.4 教程
 
-币安双合约争霸赛网址：[https://accounts.binancezh.co/cn/vote/13](https://accounts.binancezh.co/cn/vote/13)，币安交易所账号注册点击 [此处](https://accounts.binancezh.co/cn/register/?ref=11190872)。
+币安双合约争霸赛网址：[https://accounts.binancezh.io/cn/vote/13](https://accounts.binancezh.io/cn/vote/13)，币安交易所账号注册点击 [此处](https://accounts.binancezh.io/cn/register/?ref=11190872)。
 
 首先，在 [合约 A](https://testnet.binancefuture.com/cn/futures/BTCUSDT) 和 [合约 B](https://testnet.jexzh.com) 两个网站使用同一邮箱注册账号。
 
@@ -87,7 +87,7 @@ Binance 将上线合约交易平台（Binance Futures），并同时推出两个
 
 币安是全球领先的数字货币交易平台，提供比特币、以太坊、BNB 以及 USDT 交易。
 
-> 币安注册: [https://accounts.binancezh.co/cn/register/?ref=11190872](https://accounts.binancezh.co/cn/register/?ref=11190872)
+> 币安注册: [https://accounts.binancezh.io/cn/register/?ref=11190872](https://accounts.binancezh.io/cn/register/?ref=11190872)
 > 邀请码: **11190872**
 
 ***
