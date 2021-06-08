@@ -41,7 +41,7 @@ Hodl Hodl 确实够 Decentralized，不过 Hodl Hodl 存在如下问题：
 
 第三，0.6% 的手续费，这个真不低。按照 Hodl Hodl 的说法，手续费由买家卖家均摊，也就是 0.3%。LocalCryptos 的手续费跟这个不太一样，总共 1%，挂单方 0.25%，响应方 0.75%。不管是 Hodl Hodl 的 0.6%，还是 LocalCryptos 的 1%，这个成本都比我们熟知的 0TC 平台要高。
 
-当然了，目前的形势，对 0TC 可能真有影响。不过也没关系，有 LocalBitcons、LocalCryptos、Hodl Hodl 这些平台的存在，出入金从来都不是问题。就像是，即使某种特殊的 Q 存在，也不妨碍我们使用 Google。
+当然了，目前的形势，对 0TC 可能真有影响，可以考虑下 LocalBitcons、LocalCryptos、Hodl Hodl。
 
 ***
 
