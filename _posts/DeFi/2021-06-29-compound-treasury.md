@@ -9,6 +9,8 @@ tags:
   - DeFi
   - Compound
   - USDC
+  - Circle
+  - Fireblocks
 ---
 
 `文/Robin`
