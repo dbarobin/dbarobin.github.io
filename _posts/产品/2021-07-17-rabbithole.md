@@ -2,7 +2,7 @@
 published: true
 author: Robin Wen
 layout: post
-title: 链上操作激励平台 RabbitHole
+title: 链上任务激励平台 RabbitHole
 category: 产品
 summary: "笔者之前在「如何构建链上简历」一文中有提到 RabbitHole，本篇为大家详细地介绍这个项目。RabbitHole 旨在通过游戏化思维，将每个去中心化应用分解为游戏任务，引导用户与区块链协议、去中心化应用进行交互，增加对去中心化应用主要功能的理解，完成任务后用户可获得 RabbitHole 系统代币 XP 代币和项目方提供的代币奖励。RabbitHole 通过任务奖励的机制，可以为项目方精准地找到目标用户，并且可以持续地构建用户画像，本质上是一个流量系统，这也就是 RabbitHole 值钱的原因吧。"
 tags:
